@@ -1,0 +1,2 @@
+ pnpm drizzle-kit push
+ pnpm drizzle-kit studio
